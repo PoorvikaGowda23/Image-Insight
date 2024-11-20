@@ -62,7 +62,17 @@ This project demonstrates the integration object and text detection system. It i
   - **Object Detection Results**: Bounding boxes drawn around detected objects using YOLOv8.
   - **Text Detection and Recognition**: Results displayed with Keras OCR.
 
-##Output
+##  Output
+
+### 1. Uploaded Image
+![Uploaded Image](input.png)
+
+### 2. Keras OCR Output
+![Keras OCR Output](kerasocr_result.png)
+
+### 3. YOLOv8 Output
+![YOLOv8 Output](yolov8_result.png)
+
 
 
 

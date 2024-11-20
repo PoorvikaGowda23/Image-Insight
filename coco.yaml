@@ -1,0 +1,46 @@
+names:
+  0: person
+  1: bicycle
+  2: car
+  3: motorcycle
+  4: airplane
+  5: bus
+  6: train
+  7: truck
+  8: boat
+  9: traffic light
+  10: fire hydrant
+  11: stop sign
+  12: parking meter
+  13: backpack
+  14: umbrella
+  15: handbag
+  16: suitcase
+  17: frisbee
+  18: skis
+  19: snowboard
+  20: sports ball
+  21: baseball bat
+  22: skateboard
+  23: surfboard
+  24: tennis racket
+  25: bottle
+  26: cup
+  27: tv
+  28: laptop
+  29: mouse
+  30: remote
+  31: keyboard
+  32: cell phone
+  33: microwave
+  34: oven
+  35: toaster
+  36: refrigerator
+  37: book
+  38: clock
+  39: vase
+  40: hair drier
+  41: toothbrush
+nc: 42
+train: D:\sem 5\capstone\ca2\coco1\train2017
+val: D:\sem 5\capstone\ca2\coco1\val2017

@@ -10,7 +10,7 @@ This project demonstrates the integration object and text detection system. It i
    - **Annotations**:
      - Preprocessing converts a single JSON annotations file into separate files for each image.
      - Generates a `coco.yaml` file, used as input for training the YOLOv8 model.
-   - **Trained Model**: Training uses `coco.yaml` as input and results are stored in `runs/detect`.
+   - **Trained Model**: Training uses `coco.yaml` , `yolov8n.pt` as input and results are stored in `runs/detect`.
    - **Environment**: Trained and run using NVIDIA CUDA 12.1 for optimal GPU acceleration.
 
 2. **Optical Character Recognition (OCR)**:

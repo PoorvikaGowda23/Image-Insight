@@ -1,7 +1,5 @@
 streamlit==1.39.0
 pillow==10.3.0
-opencv-python==4.10.0.84
-opencv-python-headless==4.10.0.84
 keras-ocr @ git+https://github.com/faustomorales/keras-ocr.git@e8d34a46f07d50158e1d86d6c617e99bfe99e2f8
 ultralytics==8.3.5
 ultralytics-thop==2.0.6

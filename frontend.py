@@ -6,7 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from ultralytics import YOLO
 pipeline = keras_ocr.pipeline.Pipeline()
-model = YOLO(r"D:\sem 5\capstone\ca2\runs\detect\train\weights\best.pt")
+model = YOLO(r"runs\detect\train\weights\best.pt")
 
 st.write("Upload an image file from your computer")
 

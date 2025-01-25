@@ -2,7 +2,7 @@ streamlit==1.39.0
 pillow==10.3.0
 opencv-python==4.10.0.84
 opencv-python-headless==4.10.0.84
-keras-ocr==0.8.6
+keras-ocr==0.9.0
 ultralytics==8.3.5
 ultralytics-thop==2.0.6
 tensorflow==2.16.2

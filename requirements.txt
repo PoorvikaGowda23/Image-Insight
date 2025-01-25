@@ -3,6 +3,7 @@ Pillow
 opencv-python
 opencv-python-headless
 keras-ocr
+tensorflow
 numpy
 matplotlib
 ultralytics

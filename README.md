@@ -38,7 +38,7 @@ This project demonstrates the integration object and text detection system. It i
 - Python 3.8 or later
 - Libraries:
   - `streamlit`, `ultralytics`, `keras-ocr`, `easyocr`, `opencv-python`, `numpy`, `tensorflow`, `matplotlib`, `pandas`, `seaborn`
-  - For TesseractOCR: Install [Tesseract](https://github.com/tesseract-ocr/tesseract).
+  - For TesseractOCR: Install Tesseract
   - **GPU Acceleration**: NVIDIA CUDA 12.1
 
 ## Usage
